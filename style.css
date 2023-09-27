@@ -1,0 +1,437 @@
+*{
+    margin: 0;
+
+}
+
+.header{
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    position: fixed;
+    z-index: 2;
+}
+.logo{
+    padding: 20px;
+    width: 291px;
+    height:38px;
+}
+.header{
+    display: flex;
+}
+ .l-div1{
+    padding-left: 50px;
+    padding-top: 16px;
+    margin-left: 6px;
+}
+.l-div1 li{
+    list-style: none;
+    display: inline-flex;
+    color: antiquewhite;
+    font-family: 'Guardian Sans Medium',Helvetica,Arial,Lucida,sans-serif;
+    margin-top: 20px;
+    
+}
+.list1:hover{
+    color:#232323;
+}
+.list1{
+    margin-left:50px;
+    cursor: pointer;
+
+   
+}
+.image1{
+    position: relative;
+    background-color: black;
+}
+.image1 img{
+    margin-top: 75px;
+    width: 100%;
+    height: 100%;
+}
+.relogo img{
+    position: absolute;
+    top: 5px;
+    width: 55px;
+    height: 55px;
+    margin-left: 5px;
+
+}
+.par0 p{
+    position: absolute;
+    top: 100px;
+    font-size: 16px;
+    font-family: "YouTube Noto",Roboto,Arial,Helvetica,sans-serif;
+    color: #EEEEEE;
+    margin-left: 65px;
+    font-weight: 650;
+    
+}
+.share img{
+    position: absolute;
+    top: 12px;
+    width: 20px;
+    height: 15px;
+    margin-left: 1275px;
+}
+.share1 p{
+    position: absolute;
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 1266px;
+    top: 108px;
+    color: #EEEEEE;
+
+}
+.uicon img{
+    position: absolute;
+    top: 305px;
+    width: 180px;
+    height: 135px;
+    margin-left: 545px;
+   
+}
+
+.image2{
+    position: relative;
+    background-color: black;
+}
+.image2 img{ 
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+
+
+.usa{
+    position: absolute;
+    color: #fff;
+    top: 150px;
+    font-size: 30px;
+    margin-left: 225px;
+    font-weight: 800;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.log1{
+    background-color: #fff;
+}
+.log1 img{
+position: absolute;
+top: 109px;
+width: 306px;
+height: 124px;
+margin-left: 505px;
+opacity: 150%;
+}
+.canada{
+position: absolute;
+top: 150px;
+font-size: 30px;
+margin-left: 993px;
+font-weight: 800;
+color: #fff;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.image3{
+    position: relative;
+    background-color: black;
+}
+.image3 img{
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+.log2{
+    background-color: #fff;
+}
+.log2 img {
+    position: absolute;
+    top: 80px;
+    margin-left: 504px;
+    width: 306px;
+    height: 170px;
+    opacity: 150%;
+}
+.image4{
+    position: relative;
+    background-color: black;
+}
+.image4 img{
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+.log3{
+    background-color:#fff;
+}
+.log3 img{
+    position: absolute;
+    top: 90px;
+    width: 306px;
+    height: 190px;
+    margin-left: 500px;
+    opacity: 100%;
+}
+
+
+.image5{
+    position: relative;
+    background-color: black;
+}
+.image5 img{
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+.log4{
+    background-color: #fff;
+}
+.log4 img {
+    position: absolute;
+    top: 92px;
+    width: 340px;
+    height: 130px;
+    opacity: 100%;
+    margin-left: 130px;
+}
+
+
+.par1{
+    margin-left: 570px;
+    font-size:16px;
+    color: #fff;
+    position:absolute;
+    top: 120px;
+    font-family: 'Guardian Sans Medium',Helvetica,Arial,Lucida,sans-serif;
+    line-height: 1.7em;
+    font-weight: 15px;
+}
+.image6{
+    position: relative;
+    background-color: black;
+}
+.image6 img{
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+.log5{
+    background-color: #fff;
+}
+.log5 img{
+    position: absolute;
+    top: 82px;
+    width: 350px;
+    height: 150px;
+    margin-left: 120px;
+    opacity: 100%;
+}
+.par2{
+    position: absolute;
+    top: 115px;
+    margin-left: 518px;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-family:'Guardian Sans Medium',Helvetica,Arial,Lucida,sans-serif;
+    color: #fff;
+    font-weight: 500;
+}
+
+.image7{
+    position: relative;
+    background-color:black;
+}
+.image7 img{
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+.log6{
+    background-color: #fff;
+}
+.log6 img{
+    position: absolute;
+    top: 82px;
+    width: 350px;
+    height: 150px;
+    margin-left: 120px;
+    opacity: 100%;
+}
+.par3 {
+    position: absolute;
+    top: 116px;
+    margin-left: 570px;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-family: 'Guardian Sans Medium',Helvetica,Arial,Lucida,sans-serif;
+    color: #fff;
+    font-weight: 500;
+}
+.image8{
+    position: relative;
+    background-color: black;
+}
+.image8 img{
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+.log7{
+    background-color: #fff;
+}
+.log7 img{
+    position: absolute;
+    top: 82px;
+    width: 350px;
+    height: 150px;
+    margin-left: 120px;
+    opacity: 100%;
+}
+.par4 {
+    position: absolute;
+    top: 116px;
+    margin-left: 570px;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-family: 'Guardian Sans Medium',Helvetica,Arial,Lucida,sans-serif;
+    color: #fff;
+    font-weight: 500;
+}
+.image9{
+    position: relative;
+    background-color:black;
+}
+.image9 img{
+    width: 100%;
+    margin-top: -4px;
+    opacity: 50%;
+}
+.log8{
+    background-color: #fff;
+}
+.log8 img{
+    position: absolute;
+    top: 82px;
+    width: 350px;
+    height: 150px;
+    margin-left: 120px;
+    opacity: 100%;
+}
+
+.par5 {
+    position: absolute;
+    top: 116px;
+    margin-left: 570px;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-family: 'Guardian Sans Medium',Helvetica,Arial,Lucida,sans-serif;
+    color: #fff;
+    font-weight: 500;
+}
+.footer{
+    position: relative;
+    background:#232323;
+    /* color:black; */
+    width: 100%;
+    height: 393px;
+    margin-top: -5px;
+}
+.log9 img{
+    position:absolute;
+    width: 210px;
+    height: 99px;
+    top: 60px;
+    margin-left: 121px;
+
+}
+
+.par6 p{
+    position: absolute;
+    top: 56px;
+    font-size: 20px;
+    font-family: 'Oswald',Helvetica,Arial,Lucida,sans-serif;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-left: 525px;
+}
+.par6 p1{
+    position: absolute;
+    top: 81.4px;
+    font-size: 20px;
+    font-family: 'Oswald',Helvetica,Arial,Lucida,sans-serif;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-left: 551px;
+}
+
+#email{
+    position: absolute;
+    background-color: #232323;
+    border-color: orangered;
+    border-width: 2px;
+    border-top: none;
+    border-right: none;
+    width: 298px;
+    height: 21px;
+    margin-left: 470px;
+    top: 135px;
+    padding: 4px;
+
+}
+
+#sub{
+    position: absolute;
+    top: 175px;
+    background-color: orangered;
+    font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    width: 110px;
+    height: 35px;
+    margin-left:468px
+
+}
+
+.insta img{
+    position:absolute;
+    top: 50px;
+    width: 55px;
+    height: 30px;
+    margin-left: 892px;
+}
+.fb img{
+    position: absolute;
+    top: 50px;
+    width: 28px;
+    height: 25px;
+    margin-left: 855px;
+}
+.utube img{
+    position: absolute;
+    top: 50px;
+    width: 35px;
+    height: 30px;
+    margin-left: 955px;
+}
+.container{
+    position: relative;
+    background: #000000;
+    width: 100%;
+    height: 53.8px;
+
+}
+.container p{
+    position: absolute;
+    top: 15px;
+    font-size: 12px;
+    margin-left: 115px;
+    font-family: Open Sans,Arial,sans-serif;
+    color: #232323;
+    margin-left: 110px;
+}
